@@ -9,5 +9,5 @@
 ### How to test ###
 > sbt test
 
-### Hor to run ###
+### How to run ###
 > sbt run
